@@ -3,5 +3,6 @@ Java server 3
 Java server 3.1
 Java server 3.2
 Java server 3.3
+Java server 3.4
 
 https://www.16personalities.com/ru/test-lichnosti
