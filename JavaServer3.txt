@@ -9,4 +9,6 @@ Java server 3.4
 //Commit 4
 //Merge1
 //Merge4
+
+//Fix2 - comment1
 https://www.16personalities.com/ru/test-lichnosti
