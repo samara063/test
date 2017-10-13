@@ -7,4 +7,5 @@ Java server 3.3
 //Commit 2
 //Commit 4
 //Merge1
+//Merge4
 https://www.16personalities.com/ru/test-lichnosti
